@@ -26,7 +26,7 @@ Gosto de trabalhar com produtos reais, entendendo o problema antes de codar, bus
 **Outros**
 - Git & GitHub
 - Integração com APIs externas (Google, Mercado Pago)
-- Metodologias Ágeis (Scrum)
+- Metodologias Ágeis (Scrum/Kanban)
 
 ---
 
