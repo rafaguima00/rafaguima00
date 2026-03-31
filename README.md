@@ -1,27 +1,29 @@
-# 👋 Olá! Eu sou Rafael
+# Olá! Eu sou Rafael
 
-Sou **Desenvolvedor Full Stack** com foco em aplicações **web & mobile**, utilizando principalmente **React, React Native e Node.js**.
+Sou **Desenvolvedor Full Stack** com foco em aplicações **web e mobile**, utilizando principalmente **React, React Native e Node.js**.
 
-Gosto de trabalhar com produtos reais, entendendo o problema antes de codar, buscando sempre **código limpo**, **boas práticas** e **boa experiência do usuário**.
+Gosto de trabalhar com código, priorizando o **código limpo**, **boas práticas** e **boa experiência do usuário**.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias
 
 **Front-end**
+- HTML5 | CSS3
 - React
 - React Native
-- JavaScript / TypeScript
-- HTML5 | CSS3
+- JavaScript
+- TypeScript
 
 **Back-end**
 - Node.js
 - Express
 - APIs REST
-- Autenticação de usuários
+- JWT
 
 **Banco de Dados**
 - MySQL
+- PostgreSQL
 
 **Outros**
 - Git & GitHub
@@ -30,7 +32,7 @@ Gosto de trabalhar com produtos reais, entendendo o problema antes de codar, bus
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### Parko – Plataforma Web & Mobile
 Sistema completo para gestão de vagas e reservas de estacionamento.
@@ -39,29 +41,24 @@ Sistema completo para gestão de vagas e reservas de estacionamento.
 - Autenticação de usuários
 - Dashboard administrativo
 - Integração entre front-end e back-end
-- Integração com API de pagamento (Mercado Pago)
+- Realização de pagamentos online (Mercado Pago API)
 
-🔗 Repositórios:
+Repositórios:
 - Web: https://github.com/rafaguima00/dashboard-parko
 - Mobile: https://github.com/rafaguima00/parko-app
 - Backend: https://github.com/rafaguima00/parko-server
 
 ---
 
-## 📚 O que estou buscando agora
+## Objetivos
 
 Atualmente, busco uma oportunidade como **Desenvolvedor Full Stack**, onde eu possa:
-- Aprender com o time
+- Evoluir de forma contínua
 - Contribuir no desenvolvimento de produtos reais
-- Evoluir tecnicamente de forma contínua
 
 ---
 
-## 📫 Onde me encontrar
+## Meu Perfil
 
 - LinkedIn: https://www.linkedin.com/in/rafael-moreira-23362a218/
 - GitHub: https://github.com/rafaguima00
-
----
-
-⭐ Sempre aberto a feedbacks, aprendizados e novos desafios!
